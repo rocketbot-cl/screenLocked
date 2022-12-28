@@ -1,26 +1,26 @@
-# screen locked
+# Pantalla Bloqueada
   
 Control de Bloqueo de Pantalla en Windows  
 
 *Read this in other languages: [English](README.md), [Español](README.es.md).*
 
-## How to install this module
+## Como instalar este módulo
   
-__Download__ and __install__ the content in 'modules' folder in Rocketbot path  
+__Descarga__ e __instala__ el contenido en la carpeta 'modules' en la ruta de Rocketbot.  
 
 
 
 ## Overview
 
 
-1. Locked screen  
-Save value of locked screen
+1. Pantalla bloqueada  
+Guardar valor de la pantalla bloqueada
 
-2. Disable unlocked screen  
-Prevents screen from locking
+2. DesHabilitar Bloqueo de Pantalla  
+Evita que la pantalla se bloquee
 
-3. Enable unlocked screen  
-Prevents screen from locking  
+3. Habilitar Bloqueo de Pantalla  
+Evita que la pantalla se bloquee  
 
 
 

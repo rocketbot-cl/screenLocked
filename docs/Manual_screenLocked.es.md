@@ -21,7 +21,7 @@ Guardar valor de la pantalla bloqueada
 |Asignar resultado a variable|Variable donde se guardará el resultado|Variable|
   
 
-### DesHabilitar Bloqueo de Pantalla
+### Deshabilitar Bloqueo de Pantalla
   
 Evita que la pantalla se bloquee
 |Parámetros|Descripción|ejemplo|
